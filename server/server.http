@@ -1,0 +1,12 @@
+POST http://localhost:3009/admins/
+Content-Type: application/json
+
+{   
+    "username":"nagendra",
+    "password":"nagendra@123",
+    "name": "ANEGONDI NAGENDRA BABU"
+}
+
+###
+
+GET http://localhost:3009/admins/
